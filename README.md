@@ -11,7 +11,11 @@ We are using the domain <a href="http://www.bitcointoken.pw/">bitcointoken.pw</a
 Some to-do's.
 
 -Fix CMC and price section.
+
 -Add Masternode section.
+
 -Add Raspberry Pi section.
+
 -Add links to wallets.
+
 -Make site mobile friendly
