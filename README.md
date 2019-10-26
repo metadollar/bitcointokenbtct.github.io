@@ -7,3 +7,11 @@ The aims of the Bitcoin Token website are to make a very simple, graphically ple
 All technical data for the chain can be found here on github or on the BitcoinTalk thread. 
 
 We are using the domain <a href="http://www.bitcointoken.pw/">bitcointoken.pw</a> to resolve the website though it is 100% hosted on github =-)
+
+Some to-do's.
+
+-Fix CMC and price section.
+-Add Masternode section.
+-Add Raspberry Pi section.
+-Add links to wallets.
+-Make site mobile friendly
