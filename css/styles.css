@@ -679,6 +679,43 @@ header7 i {
 
 
 /* ==========================================================================
+Hero9
+========================================================================== */
+.hero9 {
+    position: relative;
+    padding: 60px 0 60px 0;
+    min-height: 800px;
+    background: rgb(255, 185, 1) url('../img/raspi-placeholder.jpg') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.hero9 h1 {
+    margin: 200px 0 45px 0;
+    font-weight: 300;
+    font-size: 45px;
+}
+.hero7 h1 span {
+    display: inline-block;
+    color: #342500;
+}
+#home7 {
+    width: 100%;
+    height: 100%;
+}
+.hero7 {
+    width: 100%;
+    height: 100%;
+}
+header7 i {
+    margin-left: 5px
+}
+
+
+
+
+
+
+/* ==========================================================================
 Hero2
 ========================================================================== */
 .hero2 {
