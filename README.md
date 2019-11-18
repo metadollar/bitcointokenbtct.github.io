@@ -12,10 +12,11 @@ Some to-do's.
 
 -Fix CMC and price section.
 
-<ul>-Add Masternode section.</ul>
+<strike>-Add Masternode section.</strike>
 
--Add Raspberry Pi section.
+<strike>-Add Raspberry Pi section.
+*added the link to the tutorial on github to start with.</strike>
 
--Add links to wallets.
+<strike>-Add links to wallets.</strike>
 
 -Make site mobile friendly
