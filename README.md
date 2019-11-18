@@ -12,7 +12,7 @@ Some to-do's.
 
 -Fix CMC and price section.
 
--Add Masternode section.
+<ul>-Add Masternode section.</ul>
 
 -Add Raspberry Pi section.
 
