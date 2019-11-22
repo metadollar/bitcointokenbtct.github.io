@@ -1,0 +1,101 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #ffb901;
+    color: #342500;
+}
+h1 {
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+h2 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.list-group-item {
+    background-color: #ffb901;
+}
+a:link, a:visited, a:hover, a:active {
+    color: #342500;
+}
+@media only screen and (max-width: 479px) {
+    .hero, .beginner, .price, .wallet, .trade, .masternode {
+        background: none !important;
+    }
+}
+.hero {
+    position: relative;
+    padding: 60px 0 60px 0;
+    min-height: 800px;
+    background: rgb(255, 185, 1) url('../img/hero-01.jpg') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.learn-btn, .download-btn {
+    display: inline-block;
+    padding: 18px 46px;
+    border: 2px solid #342500;
+    border-radius: 3px;
+    color: #342500;
+    font-size: 16px;
+}
+.learn-btn:hover, .download-btn:hover, .learn-btn:focus, .download-btn:focus {
+    border-color: #a37709;
+    color: #a37709;
+    text-decoration: none;
+}
+section.about {
+    padding: 60px 0;
+}
+.beginner {
+    border-top: 1px solid #e8a42d;
+    position: relative;
+    padding: 60px 0 60px 0;
+    background: rgb(255, 185, 1) url('../img/worldwide.jpg') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.wallet {
+    border-top: 1px solid #e8a42d;
+    position: relative;
+    padding: 60px 0 60px 0;
+    min-height: 600px;
+    background: rgb(255, 185, 1) url('../img/chrome.jpg') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.trade {
+    border-top: 1px solid #e8a42d;
+    position: relative;
+    padding: 60px 0 60px 0;
+    background: rgb(255, 185, 1) url('../img/tokenstore.jpg') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.masternode {
+    border-top: 1px solid #e8a42d;
+    position: relative;
+    padding: 60px 0 60px 0;
+    min-height: 600px;
+    background: rgb(255, 185, 1) url('../img/raspi-placeholder.jpg') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.price {
+    border-top: 1px solid #e8a42d;
+    position: relative;
+    padding: 60px 0 60px 0;
+    min-height: 600px;
+    background: rgb(255, 185, 1) url('../img/livecoinwatch.png') no-repeat center center;
+    background-size: cover;
+    color: #342500;
+}
+.community {
+    border-top: 1px solid #e8a42d;
+    padding: 60px 0 60px 0;
+}
+.footer {
+    border-top: 1px solid #e8a42d;
+    padding: 30px 0;
+}
